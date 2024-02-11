@@ -8,7 +8,8 @@
                 "Farmacia"
             ],
             "imagenes": [
-                "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link","https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
+                "https://drive.google.com/file/d/1IPFtKj07HyGMsdBUWRu8dTAB5IoK_JqM/view?usp=drive_link",
+                "https://drive.google.com/file/d/1Te8qo6MMluXFDpmscMurbolwQH859OZO/view?usp=drive_link"
             ],
             "descripcion": "Parte trasera del edifico Centro de Infomacion Integral, ademas es rojo con blanco",
             "latitud": -0.199490,
@@ -18,7 +19,8 @@
             "nombre": "Vinculacion para la sociedad",
             "servicios": ["Oficinas"],
             "imagenes": [
-                "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?w=1080","https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1080"
+                "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?w=1080",
+                "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1080"
             ],
             "descripcion": "Al frente de unas de las entradas de la Av. Bolivia y cercano a la facultad de comunicacion",
             "latitud": -0.200895,
@@ -28,11 +30,12 @@
             "nombre": "Direccion de Posgrados",
             "servicios": ["Oficinas"],
             "imagenes": [
-                "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link","https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
+                "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link",
+                "https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
             ],
-            "descripcion": "-----",
-            "latitud": 0,
-            "longitud":0
+            "descripcion": "Se encuentra entre las facultades de veterinaria y ciencias agricolas",
+            "latitud": -0.199739,
+            "longitud": -78.507086
         }
 
     ],
@@ -45,7 +48,9 @@
                 "Ingenieria en Bioprocesos"
             ],
             "imagenes": [
-                "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?w=1080","https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1080"
+                "https://drive.google.com/file/d/1f9B5aRZ4PpSay7jA3nvye1m7E_4dfXE-/view?usp=drive_link",
+                "https://drive.google.com/file/d/1Y_WpuRHR018j1gLehp4NcUWP0DhZo8O3/view?usp=drive_link", 
+                "https://drive.google.com/file/d/1DDlqj2n--ixdzQBKmF6eIReKEGa73T9U/view?usp=drive_link"
             ],
             "descripcion": "Cercano a dos entradas en las calles, edificio blanco con azul, entre dos canchas de basquet",
             "latitud": -0.200207,
@@ -55,7 +60,8 @@
             "nombre": "Facultad de Medicina Veterinaria y Zootecnia",
             "servicios": ["Medicina Veterinaria y Zootecnia"],
             "imagenes": [
-                "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?w=1080","https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1080"
+                "https://drive.google.com/file/d/1ZVFxeEyhVu1r8YNRapVaEOVGELbuFctQ/view?usp=drive_link",
+                "https://drive.google.com/file/d/1few5Q9KDZQxNaVsVuGnudbbFAYypxaU3/view?usp=drive_link"
             ],
             "descripcion": "Cercano a la entrada en las calle Gilberto Gato Sobral, edificio blanco verdoso con una cancha de basquet",
             "latitud": -0.198409,
@@ -65,7 +71,8 @@
             "nombre": "Facultad de Arquitectura y Urbanismo",
             "servicios": ["Arquitectura y Urbanismo"],
             "imagenes": [
-                 "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link","https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
+                 "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link",
+                 "https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
             ],
             "descripcion": "Cercano a la facultad de Ciencias Economicas, edificio con entrada de vidrios y decorado con hierbas",
             "latitud": -0.200385,
@@ -78,7 +85,10 @@
                 "Ciencias Politicas"
             ],
             "imagenes": [
-                "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?w=1080","https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1080"
+                "https://drive.google.com/file/d/137lQJ8YKyJS73lrRkkob9FQxObLnBaBR/view?usp=drive_link",
+                "https://drive.google.com/file/d/1aM0dfEoVXhGG6z39oDH8XjoSND82wTMg/view?usp=drive_link",
+                "https://drive.google.com/file/d/1vMsa6vJr1lYQHC0u_YPuMjZph6IRSk1K/view?usp=drive_link",
+                "https://drive.google.com/file/d/1tyhJ8-mZeCMXiVmZ7gypMRaKqRtcaPKC/view?usp=drive_link"
             ],
             "descripcion": "Se encuentra en la parte trasera del parqueadero de la FCSH, subiendo gradas con edifico blanco con gris",
             "latitud": -0.199127,
@@ -88,7 +98,7 @@
             "nombre": "Facultad de Filosofia, Letras y Ciencias de la Educacion de Mecatronica",
             "servicios": ["Pedagogia Tecnica de la Mecatronica"],
             "imagenes": [
-                 "https://drive.google.com/file/d/13o7g0z8b0vuRRUUdck1Z4s1_bNhUoG7-/view?usp=drive_link","https://drive.google.com/file/d/1NN6vyBWZqWBMpgBkfpZlN2oJfmRsvxdj/view?usp=drive_link"
+                 "https://drive.google.com/file/d/1ZGwjWM7AJ9O0Cs6m7q0QdyVnUrs7feu0/view?usp=drive_link"
             ],
             "descripcion": "Se encuentra subiendo hacia la derecha del Hospital del Dia y al frente edifico de la carrera de Multilingue",
             "latitud": -0.199825,
