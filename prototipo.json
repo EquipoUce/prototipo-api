@@ -180,42 +180,42 @@
 
     "entrada":[
         {
-            "numero": "1",
+            "identificador": "1",
             "latitud": -0.201597,
             "longitud":-78.501656
         },
         {
-            "numero": "2",
+            "identificador": "2",
             "latitud": -0.198965,
             "longitud":-78.500736
         },
         {
-            "numero": "3",
+            "identificador": "3",
             "latitud": -0.19791225,
             "longitud":-78.502238
         },
         {
-            "numero": "4",
+            "identificador": "4",
             "latitud": -0.197239,
             "longitud":-78.504739
         },
         {
-            "numero": "5",
+            "identificador": "5",
             "latitud": -0.197582,
             "longitud":-78.506152
         },
         {
-            "numero": "6",
+            "identificador": "6",
             "latitud": -0.199083,
             "longitud":-78.511005
         },
         {
-            "numero": "7",
+            "identificador": "7",
             "latitud": -0.201346,
             "longitud":-78.508421
         },
         {
-            "numero": "8",
+            "identificador": "8",
             "latitud": -0.201768,
             "longitud":-78.507460
         }
